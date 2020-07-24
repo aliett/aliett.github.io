@@ -1,163 +1,141 @@
 <html>
   <head>
-    
-<meta charset="utf-8" >
-
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Aliett</title>
-<meta name="description" content="Consider the past, and you shall know the future温故而知新">
-
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://aliett.github.io/favicon.ico?v=1595616923632">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="shortcut icon" href="https://aliett.github.io/favicon.ico?v=1595617161028">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://aliett.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Aliett - Atom Feed" href="https://aliett.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-
-
-
+    <meta name="description" content="Consider the past, and you shall know the future温故而知新" />
   </head>
   <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://aliett.github.io">
-        <img class="avatar" src="https://aliett.github.io/images/avatar.png?v=1595616923632" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://aliett.github.io">
-        <h1 class="site-title">Aliett</h1>
-      </a>
-    </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://aliett.github.io">
+  <img class="avatar" src="https://aliett.github.io/images/avatar.png?v=1595617161028" alt="">
+  </a>
+  <h1 class="site-title">
+    Aliett
+  </h1>
+  <p class="site-description">
+    Consider the past, and you shall know the future温故而知新
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
   </div>
 </div>
 
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
+    
         
-          <a href="/" class="menu purple-link">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
-        
-      
-    </div>
-  </div>
-</transition>
-
-
-        <div class="content-container">
-          
-          
 
 <div class="archives-container">
   
     <h2 class="year">2020</h2>
     
       
-        <article class="post">
-          <a href="https://aliett.github.io/post/007chinas-getting-ready-for-a-long-bull-market-zhong-guo-wei-chang-qi-niu-shi-zuo-hao-zhun-bei/">
-            <h2 class="post-title">
-              007 China&#39;s getting Ready For A Long Bull Market中国为长期牛市做好准备
-              <small>2020-07-25</small>
-            </h2>
-          </a>
-        </article>
+        <a href="https://aliett.github.io/post/007chinas-getting-ready-for-a-long-bull-market-zhong-guo-wei-chang-qi-niu-shi-zuo-hao-zhun-bei/" class="post">
+          <h2 class="post-title">
+            007 China&#39;s getting Ready For A Long Bull Market中国为长期牛市做好准备
+          </h2>
+          <div class="time">2020-07-25</div>
+        </a>
       
     
       
-        <article class="post">
-          <a href="https://aliett.github.io/post/006-xing-lian-ji-hua-starlink/">
-            <h2 class="post-title">
-              006 Starlink星联计划
-              <small>2020-07-25</small>
-            </h2>
-          </a>
-        </article>
+        <a href="https://aliett.github.io/post/006-xing-lian-ji-hua-starlink/" class="post">
+          <h2 class="post-title">
+            006 Starlink星联计划
+          </h2>
+          <div class="time">2020-07-25</div>
+        </a>
       
     
       
-        <article class="post">
-          <a href="https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/">
-            <h2 class="post-title">
-              005 That Time I Tried to Buy an Actual Barrel of Crude Oil 2015那次我想买一桶真正的原油
-              <small>2020-07-25</small>
-            </h2>
-          </a>
-        </article>
+        <a href="https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/" class="post">
+          <h2 class="post-title">
+            005 That Time I Tried to Buy an Actual Barrel of Crude Oil 2015那次我想买一桶真正的原油
+          </h2>
+          <div class="time">2020-07-25</div>
+        </a>
       
     
       
-        <article class="post">
-          <a href="https://aliett.github.io/post/004how-does-fund-share-calculate-hold-full-7-daysji-jin-fen-e-zen-me-suan-chi-you-man-7-tian/">
-            <h2 class="post-title">
-              004 How does fund share calculate hold full 7 days?基金份额怎么算持有满7天？
-              <small>2020-07-25</small>
-            </h2>
-          </a>
-        </article>
+        <a href="https://aliett.github.io/post/004how-does-fund-share-calculate-hold-full-7-daysji-jin-fen-e-zen-me-suan-chi-you-man-7-tian/" class="post">
+          <h2 class="post-title">
+            004 How does fund share calculate hold full 7 days?基金份额怎么算持有满7天？
+          </h2>
+          <div class="time">2020-07-25</div>
+        </a>
       
     
       
-        <article class="post">
-          <a href="https://aliett.github.io/post/003what-is-a-fuse-mechanismshi-me-shi-rong-duan-ji-zhi/">
-            <h2 class="post-title">
-              003 What is a fuse mechanism?什么是熔断机制? 
-              <small>2020-07-25</small>
-            </h2>
-          </a>
-        </article>
+        <a href="https://aliett.github.io/post/003what-is-a-fuse-mechanismshi-me-shi-rong-duan-ji-zhi/" class="post">
+          <h2 class="post-title">
+            003 What is a fuse mechanism?什么是熔断机制? 
+          </h2>
+          <div class="time">2020-07-25</div>
+        </a>
       
     
       
-        <article class="post">
-          <a href="https://aliett.github.io/post/002how-do-you-become-a-fund-managerru-he-cheng-wei-yi-ming-ji-jin-jing-li/">
-            <h2 class="post-title">
-              002 How do you become a fund manager?如何成为一名基金经理？？？
-              <small>2020-07-24</small>
-            </h2>
-          </a>
-        </article>
+        <a href="https://aliett.github.io/post/002how-do-you-become-a-fund-managerru-he-cheng-wei-yi-ming-ji-jin-jing-li/" class="post">
+          <h2 class="post-title">
+            002 How do you become a fund manager?如何成为一名基金经理？？？
+          </h2>
+          <div class="time">2020-07-24</div>
+        </a>
       
     
       
-        <article class="post">
-          <a href="https://aliett.github.io/post/the-stock-market-crash-of-1929-what-was-it-and-why-did-it-happen1929-nian-de-gu-shi-beng-pan-ta-shi-shi-me-wei-shi-me-hui-fa-sheng/">
-            <h2 class="post-title">
-               001 The stock market crash of 1929: What was it, and why did it happen?1929年的股市崩盘:它是什么，为什么会发生?
-              <small>2020-07-24</small>
-            </h2>
-          </a>
-        </article>
+        <a href="https://aliett.github.io/post/the-stock-market-crash-of-1929-what-was-it-and-why-did-it-happen1929-nian-de-gu-shi-beng-pan-ta-shi-shi-me-wei-shi-me-hui-fa-sheng/" class="post">
+          <h2 class="post-title">
+             001 The stock market crash of 1929: What was it, and why did it happen?1929年的股市崩盘:它是什么，为什么会发生?
+          </h2>
+          <div class="time">2020-07-24</div>
+        </a>
       
     
       
@@ -180,58 +158,32 @@
       
     
       
-        <article class="post">
-          <a href="https://aliett.github.io/post/hello-gridea/">
-            <h2 class="post-title">
-              Hello Gridea
-              <small>2018-12-12</small>
-            </h2>
-          </a>
-        </article>
+        <a href="https://aliett.github.io/post/hello-gridea/" class="post">
+          <h2 class="post-title">
+            Hello Gridea
+          </h2>
+          <div class="time">2018-12-12</div>
+        </a>
       
     
   
 </div>
 
-
-        </div>
-
-        <div class="site-footer">
-  <div class="slogan">Consider the past, and you shall know the future温故而知新</div>
-  <div class="social-container">
     
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://aliett.github.io/" target="_blank">Aliett</a> | <a class="rss" href="https://aliett.github.io/atom.xml" target="_blank">RSS</a>
+        <div class="pagination-container">
+  
+  
 </div>
 
+    
+        <div class="site-footer">
+  Powered by <a href="https://aliett.github.io/" target="_blank">Aliett</a>
+  <a class="rss" href="https://aliett.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
 
       </div>
-      <script type="application/javascript">
-
-hljs.initHighlightingOnLoad()
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
-</script>
-
-
-
-
     </div>
   </body>
 </html>
