@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-24T16:14:15.388Z</updated>
+    <updated>2020-07-24T16:53:58.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[003What is a fuse mechanism?什么是熔断机制? ]]></title>
+        <id>https://aliett.github.io/post/003what-is-a-fuse-mechanismshi-me-shi-rong-duan-ji-zhi/</id>
+        <link href="https://aliett.github.io/post/003what-is-a-fuse-mechanismshi-me-shi-rong-duan-ji-zhi/">
+        </link>
+        <updated>2020-07-24T16:51:23.000Z</updated>
+        <content type="html"><![CDATA[<p>据纽约证券交易所称，标普500的“三个熔断点”可能会因为大幅下跌和波动而暂停交易。根据标普500前一交易日的收盘价，纽交所将其分为三个等级。</p>
+<p>以下是只适用于正常交易时间的规则:</p>
+<p>一级熔断:如果标普500下跌7%，交易将暂停15分钟。</p>
+<p>二级熔断:如果标普500下跌13%，且下跌发生在美国东部时间下午3点25分或之前，交易将再次暂停15分钟。如果在那之后下跌，交易将不会停止。</p>
+<p>三级熔断:如果标普500下跌20%，当天交易将暂停。(如果标普500指数下跌594点，就会出现这种情况)。</p>
+<p>这些断路器从未在正常交易时间以当前的形式被触发。先前的断路器系统在未能阻止2010年5月的闪存崩盘后进行了改进。目前的这套熔断机制是在2013年2月开始生效的。</p>
+<p>投资者在开盘时就知道，这种停顿是基于隔夜期货交易的一种可能性</p>
+<p>Trading on the S &amp; P 500’s “three melting points” could be suspended due to sharp falls and volatility, according to the New York Stock Exchange. The New York Stock Exchange classifies the S &amp; P 500 into three tiers based on its closing price in the previous session.</p>
+<p>The following rules apply only to normal trading hours:</p>
+<p>Primary Circuit Breaker: If the S &amp; P 500 falls 7 per cent, trading will be suspended for 15 minutes.</p>
+<p>Secondary Circuit Breaker: If the S &amp; P 500 is down 13% and the decline occurs at or before 3:25 pm EST, trading will be suspended for another 15 minutes. If it falls after that, trading will not stop.</p>
+<p>THREE-TIER FUSES: If the S &amp; P 500 falls 20 per cent, trading will be suspended for the day. That’s what happens when the S &amp; P 500 drops 594 points.</p>
+<p>These circuit breakers have never been triggered in their current form during normal trading hours. Previous circuit breaker systems were improved after failing to prevent a flash MEMORY CRASH IN MAY 2010. The current circuit breaker went into effect in February 2013.</p>
+<p>Investors knew at the start that the pause was based on the possibility of overnight futures trading</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[002How do you become a fund manager?如何成为一名基金经理？？？]]></title>
         <id>https://aliett.github.io/post/002how-do-you-become-a-fund-managerru-he-cheng-wei-yi-ming-ji-jin-jing-li/</id>
