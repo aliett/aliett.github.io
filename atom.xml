@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-24T17:17:57.482Z</updated>
+    <updated>2020-07-24T17:33:50.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[005 That Time I Tried to Buy an Actual Barrel of Crude Oil 2015那次我想买一桶真正的原油]]></title>
+        <id>https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/</id>
+        <link href="https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/">
+        </link>
+        <updated>2020-07-24T17:22:10.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://aliett.github.io/post-images/1595612001711.jpg" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1595612009793.jpg" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1595611497653.gif" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[004How does fund share calculate hold full 7 days?基金份额怎么算持有满7天？]]></title>
         <id>https://aliett.github.io/post/004how-does-fund-share-calculate-hold-full-7-daysji-jin-fen-e-zen-me-suan-chi-you-man-7-tian/</id>
