@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-24T17:34:30.201Z</updated>
+    <updated>2020-07-24T17:40:05.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[006星联计划（Starlink）]]></title>
+        <id>https://aliett.github.io/post/006-xing-lian-ji-hua-starlink/</id>
+        <link href="https://aliett.github.io/post/006-xing-lian-ji-hua-starlink/">
+        </link>
+        <updated>2020-07-24T17:35:48.000Z</updated>
+        <content type="html"><![CDATA[<p>世界上很多偏远地区由于没有无线基站，无法上网。一些高山上，上网信号也非常弱。</p>
+<p>目前的解决方案是多建基站，解决网络覆盖问题，马斯克却另辟蹊径，希望把通信网建在太空中，从而使得地面基站变得不必要。</p>
+<p>这就是星联计划，组建一个太空的宽带网络，发射几万颗微型卫星，在太空组网，为全球用户提供宽带服务。</p>
+<p>但是，卫星上网有一个难题，就是地球同步卫星不适合用于宽带上网。当今，大多数通信卫星都是地球同步卫星，即它们的速度跟地球的自转速度相同，所以永远在同一个地点的上空。这使得将天线对准它们非常方便。</p>
+<p>但是，地球同步卫星的高度是，赤道上高出海平面约35786公里。这样的距离太远，网络延迟太大，无法提供卫星宽带服务。</p>
+<p>星联计划的做法是，将卫星发射到距离地面550公里的“低空”，这样的话，网络延迟就不会太大。由于轨道较低，这些卫星的飞行速度需要更快，否则就会被地球引力吸引而坠落。速度加快的话，这些卫星就不会停留在某一个地点的上空，用户无法用天线对准某一颗卫星。所以，星联计划想要发射多颗卫星，围绕地球一圈。前一颗卫星飞走了，后一颗卫星正好可以补上它的位置，使得地面的天线总能收到信号。</p>
+<p>这个计划如果要成为现实，具备商业可行性，就需要有廉价的、可重复使用的火箭。SpaceX 正好能够提供这样的火箭。而且，SpaceX 公司也需要有大规模的民用卫星项目，才可能赚到钱，保证公司能够生存下去。</p>
+<p>于是，SpaceX 公司就成立了 Starlink 子公司，专门实现用轨道卫星覆盖地球的主要居住地区，提供无线上网服务的计划。</p>
+<p>2019年5月24日，星联计划发射了第一批60颗卫星。第一阶段计划将发射1,600颗卫星，他们宣布的目标是，在5-10年内最终达到12,000颗，甚至超过40,000颗卫星。</p>
+<p>在少于100颗卫星的情况下进行的初步测试显示，Starlink 在飞机上大约有 600Mbps的带宽，一般家庭的宽带，百兆带宽（100Mbps）就算很快了。</p>
+<p>相比地面的光纤通信，卫星宽带还有一个优势。无线电波在太空环境的传播速度，接近真空中的光速每秒30万公里，要比光纤的传送速度每秒20万公里快。再加上，卫星之间不用像远距离光纤通信那样，一段一段接起来，可以直接点对点传送，所以即使考虑空地往返，星联计划还是要更快一些。</p>
+<p>不过，Starlink 做不到手机那样直接上网，而是需要一个直径为0.48米的圆形卫星天线。这个天线跟比萨饼盒子或者公文包，差不多大小，所以无法手持。汽车制造商可能会将其安装在汽车或卡车的车顶上，从而向乘客提供 WiFi，这样就可以使得几乎100%的高速公路都能无线上网。</p>
+<p>所以，Starlink 不是要取代传统的无线通信服务商，马斯克希望这个服务是地面网络的补充，可以让那些没有上网条件的地方，能够用上互联网。</p>
+<p>2020年6月13日，SpaceX 公司成功发射了第9批 Starlink 卫星，目前天上已有538颗Starlink卫星，预计6月24日将发射第10批。现在，SpaceX 正式向人们发出邀请，来帮他们测试这个太空网络！</p>
+<p>只要在网页填写申请表，提供电子邮箱、邮政区号和国家，你就有机会免费试用 StarLink，帮马斯克测试这个服务。提交申请后，你会收到一封邮件，告诉你如果你所在的地区出现了测试机会，会立刻邮件通知你。</p>
+<p>地球上现在还有一半的人没有上网。有了 Starlink，无论是游轮、不发达国家、偏远的森林和沙漠，都可以有 100+ Mbps 的宽带，这对人类有非常重大的意义</p>
+<p>Starlink Map  https://satellitemap.space/indexA.html</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[005 That Time I Tried to Buy an Actual Barrel of Crude Oil 2015那次我想买一桶真正的原油]]></title>
         <id>https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/</id>
