@@ -1,713 +1,333 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh">
 
 <head>
-	<link rel="apple-touch-icon"
-  href="https://cdn.jsdelivr.net/gh/chiperman/Blog-photos/./img/iocn/aojep-i6dt9.49j3g5o9xbg.png">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta HTTP-EQUIV="pragma" CONTENT="no-cache">
-<meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate">
-<meta HTTP-EQUIV="expires" CONTENT="0">
-<meta name="apple-mobile-web-app-title" content="XiaoX 博客">
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-
-<title>Aliett</title>
-
-<link rel="stylesheet" href="https://aliett.github.io/styles/main.css">
-<link href="https://fonts.googleapis.com/css?family=Dancing+Script|Noto+Sans+SC:300|Montserrat&display=swap"
-  rel="stylesheet">
-<link href="https://at.alicdn.com/t/font_1306644_jwtuc2zzbrd.css" rel="stylesheet" />
-<!-- 下面是我自己的iconfont -->
-<link href="https://at.alicdn.com/t/font_1651848_9ur7s2zwgll.css" rel="stylesheet" />
-<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<script type='text/javascript' src='https://aliett.github.io/media/scripts/script.js'></script>
-<link href="https://cdn.bootcss.com/animate.css/3.5.2/animate.min.css" rel="stylesheet" />
-<script src="https://cdn.bootcss.com/wow/1.1.2/wow.min.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.15.8/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-<script>
-  wow = new WOW({
-    boxClass: 'wow',
-    animateClass: 'animated',
-    offset: 0,
-    mobile: true,
-    live: true
-  });
-  wow.init();
-</script>
-
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aliett</title>
+    <meta name="description" content="Consider the past, and you shall know the future温故而知新">
+    <link rel="shortcut icon" href="https://aliett.github.io/media/images/eduifuns.png">
+    <link rel="stylesheet" href="//fonts.loli.net/css?family=Arimo:400,700,400italic">
+    <link rel="stylesheet" href="https://aliett.github.io/media/css/icomoon.css">
+    <link rel="stylesheet" href="https://aliett.github.io/media/css/main.css?v=1595704056449">
 </head>
 
-<body class="home blog">
-	<div id="wrapper">
-				<header id="header" class="site-header">
-			<div class="site-branding">
-				<h1 class="site-title"><a href="https://aliett.github.io" rel="home">Aliett</a></h1>
-				<h2 class="site-description">Consider the past, and you shall know the future温故而知新</h2>
+<body class="page-body">
+    <!-- skin-white -->
+    <div class="page-container">
+        <div class="sidebar-menu toggle-others fixed">
+            <div class="sidebar-menu-inner">
+                <header class="logo-env">
+                    <!-- logo -->
+                    <div class="logo">
+                        <a href="https://aliett.github.io" class="logo-expanded">
+                            <img src="https://aliett.github.io/images/avatar.png" style="height:68px" alt="" />
+                        </a>
+                        <a href="https://aliett.github.io" class="logo-collapsed">
+                            <img src="https://aliett.github.io/media/images/eduifuns.png" width="40" alt="" />
+                        </a>
+                    </div>
+                    <div class="mobile-menu-toggle visible-xs">
+                        <a href="#" data-toggle="mobile-menu">
+                            <i class="icon-bar"></i>
+                        </a>
+                    </div>
+                </header>
+                <ul id="main-menu" class="main-menu">
+                    
 
-			</div>
-			<nav id="nav-wrapper">
-				<div class="container">
-					<div class="nav-toggle">
-						<div class="bars">
-							<div class="bar"></div>
-							<div class="bar"></div>
-							<div class="bar"></div>
-						</div>
-					</div>
-					<div class="clear"></div>
-					<ul class="dove">
-						
+                    <!-- li 加 has-sub 开启分组-->
+                    <li class="has-sub">
+                        <a>
+                            <i class="icon-globe"></i>
+                            <span class="title">代码编程</span>
+                        </a>
+                        <!-- ul li 格式添加子分组-->
+                        <ul>
+                            <li>
+                                <a href="#代码社区" class="smooth">
+                                    <i class="icon-star"></i>
+                                    <span class="title">代码社区</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#教程资料" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">教程资料</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
 
-						<li>
+                    <!-- li 加 has-sub 开启分组-->
+                    <li class="has-sub">
+                        <a>
+                            <i class="icon-globe"></i>
+                            <span class="title">素材资源</span>
+                        </a>
+                        <!-- ul li 格式添加子分组-->
+                        <ul>
+                            <li>
+                                <a href="#设计社区" class="smooth">
+                                    <i class="icon-star"></i>
+                                    <span class="title">设计社区</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#截图神器" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">截图神器</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#趣味网站" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">趣味网站</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#照片图库" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">照片图库</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#色彩分类" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">色彩分类</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#Mockup" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">Mockup</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#图标素材" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">图标素材</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#设计网站" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">设计网站</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#字体素材" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">字体素材</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#模型素材" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">模型素材</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#音乐歌曲" class="smooth">
+                                    <i class="icon-pencil"></i>
+                                    <span class="title">音乐歌曲</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
 
-							<a href="/"> 首页</a></li>
+                    
 
-						
+                    
 
-						<li>
+                    <li class="submit-tag">
+                        <a href="https://chiperman.github.io/webstack/about.html">
+                            <i class="icon-heart"></i>
+                            <span class="title">关于本站</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="main-content">
+            <nav class="navbar user-info-navbar" role="navigation">
+                <!-- User Info, Notifications and Menu Bar -->
+                <!-- Left links for user info navbar -->
+                <ul class="user-info-menu left-links list-inline list-unstyled">
+                    <li class="hidden-sm hidden-xs">
+                        <a href="#" data-toggle="sidebar">
+                            <i class="icon-bar"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
 
-							<a href="/archives"> 归档</a></li>
+            <!-- 今日诗词插件 -->
+            <!-- <div id="poem_content">
+                <h3 id="poem_sentence"></h3><span id="poem_info"></span>
+            </div> -->
+            <!-- 今日诗词 -->
 
-						
 
-						<li>
+            <br />
+            <br />
 
-							<a href="/tags"> 标签</a></li>
+            <!-- 信息资讯 -->
+            
+            <!-- END 信息资讯 -->
 
-						
+            <!-- 代码编程 -->
+            
+            
+            <!-- END 代码编程 -->
 
-						<li>
+            <!-- 素材资源 -->
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <!-- END 素材资源 -->
 
-							<a href="/post/about"> 关于</a></li>
+            <!-- 个人站点 -->
+            
+            <!-- END 个人站点 -->
 
-						
+            <!-- 游戏专区 -->
+            
+            <!-- END 游戏专区 -->
 
-					</ul>
-					</li>
 
-					</ul>
-				</div>
-			</nav>
+            <!-- Main Footer -->
+            <!-- Choose between footer styles: "footer-type-1" or "footer-type-2" -->
+            <!-- Add class "sticky" to  always stick the footer to the end of page (if page contents is small) -->
+            <!-- Or class "fixed" to  always fix the footer to the end of page -->
+            <footer class="main-footer sticky footer-type-1">
+                <div class="footer-inner">
+                    <!-- Add your copyright text here -->
+                    <div class="footer-text">
+                        <b>Crafted with 💖 by <a href="https://chiperman.github.io/post/about/"
+                                target="_blank">chiperman</a></b>
+                        Powered by <a href="https://aliett.github.io/" target="_blank">Aliett</a>  
+                        <br>
+                        「我」已经运行了<script type="text/javascript">
+                            var urodz = new Date("03/12/2020");
+                            var now = new Date();
+                            var ile = now.getTime() - urodz.getTime();
+                            var dni = Math.floor(ile / (1000 * 60 * 60 * 24));
+                            document.write(+dni)
+                        </script>天
+                        <br>
+                        <span id="busuanzi_container_site_pv" style='display:none'>总访问量<span
+                                id="busuanzi_value_site_pv">
+                            </span>次</span>
+                    </div>
+                    <div class="go-up">
+                        <a href="#" rel="go-top">
+                            <i class="icon-up"></i>
+                        </a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
 
-			<div class="jingge">
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-			</div>
-			<form id="gridea-search-form" data-update="1595703662902" action="/search/index.html">
-				<div class="search-box">
-					<input class="search-txt" name="q" placeholder="Type to search" />
-					<a class="search-btn">
-						<i class="iconfont icon-search1" action="/search/index.html"></i>
-					</a>
-				</div>
-			</form>
-		</header>
-		<div id="content" class="container">
-			<div class="row">
-				<div class="col-md-8 site-main">
-					
-<article
-	class="wow zoomIn post post-index  post-318 type-post status-publish format-standard hentry category-uncategorized tag-40 tag-39">
-	
-	<a href="https://aliett.github.io/post/007chinas-getting-ready-for-a-long-bull-market-zhong-guo-wei-chang-qi-niu-shi-zuo-hao-zhun-bei/">
-		<div class="posttou" style="background-image:url(https://aliett.github.io/post-images/007chinas-getting-ready-for-a-long-bull-market-zhong-guo-wei-chang-qi-niu-shi-zuo-hao-zhun-bei.jpg)"></div>
-	</a>
-	
-	<div class="entry-content">
-		<h1 class="entry-title"><a href="https://aliett.github.io/post/007chinas-getting-ready-for-a-long-bull-market-zhong-guo-wei-chang-qi-niu-shi-zuo-hao-zhun-bei/" rel="bookmark">007 China&#39;s getting Ready For A Long Bull Market中国为长期牛市做好准备</a></h1>
-		<div class="entry-meta">
-			<time>
-				2020-07-25
-			</time>
-			<span>
-				14 min read
-			</span>
-			<span class="isTop">
-				<script type="text/javascript">
-					var isTop;
-					isTop = false;
-					if (isTop == true) {
-					  document.write("<span>⭐ Top</span>");
-					}
-				  </script>
-			</span>
-			<br>
-			
-			<a href="https://aliett.github.io/tag/PFGmrF5Kl/" class="post-tag">
-				# Finance
-			</a>
-			
-			<a href="https://aliett.github.io/tag/Va7idY7oQN/" class="post-tag">
-				# Stock Market
-			</a>
-			
-		</div>
-		<div class="entry-summary jia">
-			
-			<p class="readmore">
-				<a href="https://aliett.github.io/post/007chinas-getting-ready-for-a-long-bull-market-zhong-guo-wei-chang-qi-niu-shi-zuo-hao-zhun-bei/" class="link-more">Read more</a>
-			</p>
-		</div>
-	</div>
-</article>
+    <!-- 今日诗词需要的 js 引入 和 jsp 部分 -->
+    <!-- <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+    <script type="text/javascript">
+        jinrishici.load(function (result) {
+            var sentence = document.querySelector("#poem_sentence")
+            var info = document.querySelector("#poem_info")
+            sentence.innerHTML = result.data.content
+            info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result
+                .data.origin.title + '》'
+        });
+    </script> -->
 
-<article
-	class="wow zoomIn post post-index  post-318 type-post status-publish format-standard hentry category-uncategorized tag-40 tag-39">
-	
-	<a href="https://aliett.github.io/post/006-xing-lian-ji-hua-starlink/">
-		<div class="posttou" style="background-image:url(https://aliett.github.io/post-images/006-xing-lian-ji-hua-starlink.png)"></div>
-	</a>
-	
-	<div class="entry-content">
-		<h1 class="entry-title"><a href="https://aliett.github.io/post/006-xing-lian-ji-hua-starlink/" rel="bookmark">006 Starlink星联计划</a></h1>
-		<div class="entry-meta">
-			<time>
-				2020-07-25
-			</time>
-			<span>
-				4 min read
-			</span>
-			<span class="isTop">
-				<script type="text/javascript">
-					var isTop;
-					isTop = false;
-					if (isTop == true) {
-					  document.write("<span>⭐ Top</span>");
-					}
-				  </script>
-			</span>
-			<br>
-			
-			<a href="https://aliett.github.io/tag/dJv9_pQI0/" class="post-tag">
-				# Science
-			</a>
-			
-		</div>
-		<div class="entry-summary jia">
-			
-			<p class="readmore">
-				<a href="https://aliett.github.io/post/006-xing-lian-ji-hua-starlink/" class="link-more">Read more</a>
-			</p>
-		</div>
-	</div>
-</article>
+    <!-- 不蒜子统计 -->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<article
-	class="wow zoomIn post post-index  post-318 type-post status-publish format-standard hentry category-uncategorized tag-40 tag-39">
-	
-	<a href="https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/">
-		<div class="posttou" style="background-image:url(https://aliett.github.io/post-images/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you.jpg)"></div>
-	</a>
-	
-	<div class="entry-content">
-		<h1 class="entry-title"><a href="https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/" rel="bookmark">005 That Time I Tried to Buy an Actual Barrel of Crude Oil 2015那次我想买一桶真正的原油</a></h1>
-		<div class="entry-meta">
-			<time>
-				2020-07-25
-			</time>
-			<span>
-				0 min read
-			</span>
-			<span class="isTop">
-				<script type="text/javascript">
-					var isTop;
-					isTop = false;
-					if (isTop == true) {
-					  document.write("<span>⭐ Top</span>");
-					}
-				  </script>
-			</span>
-			<br>
-			
-			<a href="https://aliett.github.io/tag/9G9o6qwQH/" class="post-tag">
-				# oil
-			</a>
-			
-			<a href="https://aliett.github.io/tag/PFGmrF5Kl/" class="post-tag">
-				# Finance
-			</a>
-			
-			<a href="https://aliett.github.io/tag/Va7idY7oQN/" class="post-tag">
-				# Stock Market
-			</a>
-			
-		</div>
-		<div class="entry-summary jia">
-			
-			<p class="readmore">
-				<a href="https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/" class="link-more">Read more</a>
-			</p>
-		</div>
-	</div>
-</article>
+    <script src="//cdnjs.loli.net/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- 锚点平滑移动 -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //img lazy loaded
+            const observer = lozad();
+            observer.observe();
 
-<article
-	class="wow zoomIn post post-index  post-318 type-post status-publish format-standard hentry category-uncategorized tag-40 tag-39">
-	
-	<a href="https://aliett.github.io/post/004how-does-fund-share-calculate-hold-full-7-daysji-jin-fen-e-zen-me-suan-chi-you-man-7-tian/">
-		<div class="posttou" style="background-image:url(https://aliett.github.io/post-images/004how-does-fund-share-calculate-hold-full-7-daysji-jin-fen-e-zen-me-suan-chi-you-man-7-tian.jpg)"></div>
-	</a>
-	
-	<div class="entry-content">
-		<h1 class="entry-title"><a href="https://aliett.github.io/post/004how-does-fund-share-calculate-hold-full-7-daysji-jin-fen-e-zen-me-suan-chi-you-man-7-tian/" rel="bookmark">004 How does fund share calculate hold full 7 days?基金份额怎么算持有满7天？</a></h1>
-		<div class="entry-meta">
-			<time>
-				2020-07-25
-			</time>
-			<span>
-				2 min read
-			</span>
-			<span class="isTop">
-				<script type="text/javascript">
-					var isTop;
-					isTop = false;
-					if (isTop == true) {
-					  document.write("<span>⭐ Top</span>");
-					}
-				  </script>
-			</span>
-			<br>
-			
-			<a href="https://aliett.github.io/tag/PFGmrF5Kl/" class="post-tag">
-				# Finance
-			</a>
-			
-			<a href="https://aliett.github.io/tag/Va7idY7oQN/" class="post-tag">
-				# Stock Market
-			</a>
-			
-		</div>
-		<div class="entry-summary jia">
-			
-			<p class="readmore">
-				<a href="https://aliett.github.io/post/004how-does-fund-share-calculate-hold-full-7-daysji-jin-fen-e-zen-me-suan-chi-you-man-7-tian/" class="link-more">Read more</a>
-			</p>
-		</div>
-	</div>
-</article>
+            $(document).on('click', '.has-sub', function () {
+                var _this = $(this)
+                if (!$(this).hasClass('expanded')) {
+                    setTimeout(function () {
+                        _this.find('ul').attr("style", "")
+                    }, 300);
 
-<article
-	class="wow zoomIn post post-index  post-318 type-post status-publish format-standard hentry category-uncategorized tag-40 tag-39">
-	
-	<a href="https://aliett.github.io/post/003what-is-a-fuse-mechanismshi-me-shi-rong-duan-ji-zhi/">
-		<div class="posttou" style="background-image:url(https://aliett.github.io/post-images/003what-is-a-fuse-mechanismshi-me-shi-rong-duan-ji-zhi.jpg)"></div>
-	</a>
-	
-	<div class="entry-content">
-		<h1 class="entry-title"><a href="https://aliett.github.io/post/003what-is-a-fuse-mechanismshi-me-shi-rong-duan-ji-zhi/" rel="bookmark">003 What is a fuse mechanism?什么是熔断机制? </a></h1>
-		<div class="entry-meta">
-			<time>
-				2020-07-25
-			</time>
-			<span>
-				3 min read
-			</span>
-			<span class="isTop">
-				<script type="text/javascript">
-					var isTop;
-					isTop = false;
-					if (isTop == true) {
-					  document.write("<span>⭐ Top</span>");
-					}
-				  </script>
-			</span>
-			<br>
-			
-			<a href="https://aliett.github.io/tag/PFGmrF5Kl/" class="post-tag">
-				# Finance
-			</a>
-			
-			<a href="https://aliett.github.io/tag/Va7idY7oQN/" class="post-tag">
-				# Stock Market
-			</a>
-			
-		</div>
-		<div class="entry-summary jia">
-			
-			<p class="readmore">
-				<a href="https://aliett.github.io/post/003what-is-a-fuse-mechanismshi-me-shi-rong-duan-ji-zhi/" class="link-more">Read more</a>
-			</p>
-		</div>
-	</div>
-</article>
-
-<article
-	class="wow zoomIn post post-index  post-318 type-post status-publish format-standard hentry category-uncategorized tag-40 tag-39">
-	
-	<a href="https://aliett.github.io/post/002how-do-you-become-a-fund-managerru-he-cheng-wei-yi-ming-ji-jin-jing-li/">
-		<div class="posttou" style="background-image:url(https://aliett.github.io/post-images/002how-do-you-become-a-fund-managerru-he-cheng-wei-yi-ming-ji-jin-jing-li.jpg)"></div>
-	</a>
-	
-	<div class="entry-content">
-		<h1 class="entry-title"><a href="https://aliett.github.io/post/002how-do-you-become-a-fund-managerru-he-cheng-wei-yi-ming-ji-jin-jing-li/" rel="bookmark">002 How do you become a fund manager?如何成为一名基金经理？？？</a></h1>
-		<div class="entry-meta">
-			<time>
-				2020-07-24
-			</time>
-			<span>
-				8 min read
-			</span>
-			<span class="isTop">
-				<script type="text/javascript">
-					var isTop;
-					isTop = false;
-					if (isTop == true) {
-					  document.write("<span>⭐ Top</span>");
-					}
-				  </script>
-			</span>
-			<br>
-			
-			<a href="https://aliett.github.io/tag/PFGmrF5Kl/" class="post-tag">
-				# Finance
-			</a>
-			
-			<a href="https://aliett.github.io/tag/Va7idY7oQN/" class="post-tag">
-				# Stock Market
-			</a>
-			
-		</div>
-		<div class="entry-summary jia">
-			
-			<p class="readmore">
-				<a href="https://aliett.github.io/post/002how-do-you-become-a-fund-managerru-he-cheng-wei-yi-ming-ji-jin-jing-li/" class="link-more">Read more</a>
-			</p>
-		</div>
-	</div>
-</article>
-
-<article
-	class="wow zoomIn post post-index  post-318 type-post status-publish format-standard hentry category-uncategorized tag-40 tag-39">
-	
-	<a href="https://aliett.github.io/post/001-the-stock-market-crash-of-1929-what-was-it-and-why-did-it-happen1929-nian-de-gu-shi-beng-pan-ta-shi-shi-me-wei-shi-me-hui-fa-sheng/">
-		<div class="posttou" style="background-image:url(https://aliett.github.io/post-images/001-the-stock-market-crash-of-1929-what-was-it-and-why-did-it-happen1929-nian-de-gu-shi-beng-pan-ta-shi-shi-me-wei-shi-me-hui-fa-sheng.jpg)"></div>
-	</a>
-	
-	<div class="entry-content">
-		<h1 class="entry-title"><a href="https://aliett.github.io/post/001-the-stock-market-crash-of-1929-what-was-it-and-why-did-it-happen1929-nian-de-gu-shi-beng-pan-ta-shi-shi-me-wei-shi-me-hui-fa-sheng/" rel="bookmark"> 001 The stock market crash of 1929: What was it, and why did it happen?1929年的股市崩盘:它是什么，为什么会发生?</a></h1>
-		<div class="entry-meta">
-			<time>
-				2020-07-24
-			</time>
-			<span>
-				8 min read
-			</span>
-			<span class="isTop">
-				<script type="text/javascript">
-					var isTop;
-					isTop = false;
-					if (isTop == true) {
-					  document.write("<span>⭐ Top</span>");
-					}
-				  </script>
-			</span>
-			<br>
-			
-			<a href="https://aliett.github.io/tag/PFGmrF5Kl/" class="post-tag">
-				# Finance
-			</a>
-			
-			<a href="https://aliett.github.io/tag/Va7idY7oQN/" class="post-tag">
-				# Stock Market
-			</a>
-			
-		</div>
-		<div class="entry-summary jia">
-			
-			<p class="readmore">
-				<a href="https://aliett.github.io/post/001-the-stock-market-crash-of-1929-what-was-it-and-why-did-it-happen1929-nian-de-gu-shi-beng-pan-ta-shi-shi-me-wei-shi-me-hui-fa-sheng/" class="link-more">Read more</a>
-			</p>
-		</div>
-	</div>
-</article>
-
-				</div>
-			</div>
-			<nav class="navigation pagination" role="navigation">
-	
-			
-	</nav>	
-    	<script type="text/javascript">
-//点击加载更多
-jQuery(document).ready(function($) {
-    //点击下一页的链接(即那个a标签)
-    $(' .next').click(function() {
-        $this = $(this);
-        $this.addClass('loading').text('正在努力加载'); //给a标签加载一个loading的class属性，用来添加加载效果
-        var href = $this.attr('href'); //获取下一页的链接地址
-        if (href != undefined) { //如果地址存在
-            $.ajax({ //发起ajax请求
-                url: href,
-                //请求的地址就是下一页的链接
-                type: 'get',
-                //请求类型是get
-                error: function(request) {
-                    //如果发生错误怎么处理
-                },
-                success: function(data) { //请求成功
-                    $this.removeClass('loading').text('点击查看更多'); //移除loading属性
-                    var $res = $(data).find('.post-318 '); //从数据中挑出文章数据，请根据实际情况更改
-                    $('.col-md-8').append($res.fadeIn(500)); //将数据加载加进posts-loop的标签中。
-                    var newhref = $(data).find(' .next').attr('href'); //找出新的下一页链接
-                    if (newhref != undefined) {
-                        $('.next').attr('href', newhref);
-                    } else {
-                        $('.next').remove(); //如果没有下一页了，隐藏
-                    }
+                } else {
+                    $('.has-sub ul').each(function (id, ele) {
+                        var _that = $(this)
+                        if (_this.find('ul')[0] != ele) {
+                            setTimeout(function () {
+                                _that.attr("style", "")
+                            }, 300);
+                        }
+                    })
                 }
+            })
+            $('.user-info-menu .hidden-sm').click(function () {
+                if ($('.sidebar-menu').hasClass('collapsed')) {
+                    $('.has-sub.expanded > ul').attr("style", "")
+                } else {
+                    $('.has-sub.expanded > ul').show()
+                }
+            })
+            $("#main-menu li ul li").click(function () {
+                $(this).siblings('li').removeClass('active'); // 删除其他兄弟元素的样式
+                $(this).addClass('active'); // 添加当前元素的样式
             });
-        }
-        return false;
-    });
-});
-</script>
-		</div>
-		<footer id="colophon" class="site-footer">
-	<div class="container">
-		<div class="copyright">
-			Powered by <a href="https://aliett.github.io/" target="_blank">Aliett</a>  
-			<b>Crafted with 💔 by <a href="https://chiperman.github.io/about/" target="_blank">chiperman</a></b>
-			<br>
-			<b>Eleven forever.</b>
-			<br>
-			<span class="runtime">
-				「我」已经运行了<script type="text/javascript">
-					var urodz = new Date("07/24/2020");
-					var now = new Date();
-					var ile = now.getTime() - urodz.getTime();
-					var dni = Math.floor(ile / (1000 * 60 * 60 * 24));
-					document.write(+dni)
-				</script>天
-				<br>
-			</span>
-			<b>Theme: </b>
-			<a href="https://github.com/chiperman/gridea-theme-xiaox" target="_blank" title="Pan">
-				<span><b>Pan - XiaoX</b></span>
-			</a>
-			<b>. Powered by </b>
-			<a href="https://gridea.dev/" target="_blank" title="Gridea">
-				<span><b>Gridea</b></span>
-			</a>
-		</div>
-	</div><!-- .container -->
-</footer><!-- #colophon -->
-	</div>
-	<script src="https://cdn.bootcss.com/fitvids/1.2.0/jquery.fitvids.min.js"></script>
+            $("a.smooth").click(function (ev) {
+                ev.preventDefault();
 
-<script src="https://aliett.github.io/media/scripts/marlin-scripts.js"></script>
-
-<script src="//tokinx.github.io/lately/lately.min.js"></script>
-<script>
-  jQuery(document).ready(function () {
-    $.lately({
-      'target': '.lately-a,.lately-b,.lately-c'
-    })
-  });
-</script>
-<style type="text/css">
-  /* 一键到顶部 */
-  a.back_to_top {
-    text-decoration: none;
-    position: fixed;
-    bottom: 65px;
-    right: 30px;
-    background: #f0f0f0;
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-    line-height: 36px;
-    font-size: 18px;
-    text-align: center;
-    transition-duration: .5s;
-    transition-propety: background-color;
-    display: none;
-  }
-
-  a.back_to_top span {
-    color: #888;
-  }
-
-  a.back_to_top:hover {
-    cursor: pointer;
-    background: #dfdfdf;
-  }
-
-  a.back_to_top:hover span {
-    color: #555;
-  }
-
-  @media print,
-  screen and (max-width: 580px) {
-    .back_to_top {
-      display: none !important;
-    }
-  }
-
-  /* 一键到底部 */
-
-  a.down_to_bottom {
-    text-decoration: none;
-    position: fixed;
-    bottom: 15px;
-    right: 30px;
-    background: #f0f0f0;
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-    line-height: 36px;
-    font-size: 18px;
-    text-align: center;
-    transition-duration: .5s;
-    transition-propety: background-color;
-    display: none;
-  }
-
-  a.down_to_bottom span {
-    color: #888;
-  }
-
-  a.down_to_bottom:hover {
-    cursor: pointer;
-    background: #dfdfdf;
-  }
-
-  a.down_to_bottom:hover span {
-    color: #555;
-  }
-
-  @media print,
-  screen and (max-width: 580px) {
-    .down_to_bottom {
-      display: none !important;
-    }
-  }
-</style>
-
-
-<a id="back_to_top" href="#" class="back_to_top"><span><i class="iconfont icon-xiangshang"></i></span>
-</a>
-
-<a id="down_to_bottom" href="#" class="down_to_bottom"><span><i class="iconfont icon-xiangxia"></i></span>
-</a>
-
-<script src="//instant.page/3.0.0" type="module" defer
-  integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
-
-<script>
-  function getScrollTop() {
-    var scrollTop = 0,
-      bodyScrollTop = 0,
-      documentScrollTop = 0;
-    if (document.body) {
-      bodyScrollTop = document.body.scrollTop;
-    }
-    if (document.documentElement) {
-      documentScrollTop = document.documentElement.scrollTop;
-    }
-    scrollTop = (bodyScrollTop - documentScrollTop > 0) ? bodyScrollTop : documentScrollTop;
-    return scrollTop;
-  };
-
-  function getScrollHeight() {
-    var scrollHeight = 0,
-      bodyScrollHeight = 0,
-      documentScrollHeight = 0;
-    if (document.body) {
-      bSH = document.body.scrollHeight;
-    }
-    if (document.documentElement) {
-      dSH = document.documentElement.scrollHeight;
-    }
-    scrollHeight = (bSH - dSH > 0) ? bSH : dSH;
-    return scrollHeight;
-  };
-
-  function getWindowHeight() {
-    var windowHeight = 0;
-    if (document.compatMode == "CSS1Compat") {
-      windowHeight = document.documentElement.clientHeight;
-    } else {
-      windowHeight = document.body.clientHeight;
-    }
-    return windowHeight;
-  };
-
-  $(document).ready((function (_this) {
-    return function () {
-      var bt;
-      bt = $('#back_to_top');
-      if ($(document).width() > 480) {
-        $(window).scroll(function () {
-          var st;
-          st = $(window).scrollTop();
-          if (st > 30) {
-            return bt.css('display', 'block');
-          } else {
-            return bt.css('display', 'none');
-          }
+                public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
+                ps_destroy();
+                $("html, body").animate({
+                    scrollTop: $($(this).attr("href")).offset().top - 30
+                }, {
+                    duration: 500,
+                    easing: "swing"
+                });
+            });
+            return false;
         });
-        return bt.click(function () {
-          $('body,html').animate({
-            scrollTop: 0
-          }, 800);
-          return false;
-        });
-      }
-    };
-  })(this));
 
-  $(document).ready((function (_this) {
-    return function () {
-      var bt;
-      bt = $('#down_to_bottom');
-      if ($(document).width() > 480) {
-        $(window).scroll(function () {
-          var st;
-          st = $(window).scrollTop();
-          if (getScrollTop() + getWindowHeight() == getScrollHeight()) {
-            return bt.css('display', 'none');
-          } else {
-            return bt.css('display', 'block');
-          }
+        var href = "";
+        var pos = 0;
+        $("a.smooth").click(function (e) {
+            $("#main-menu li").each(function () {
+                $(this).removeClass("active");
+            });
+            $(this).parent("li").addClass("active");
+            e.preventDefault();
+            href = $(this).attr("href");
+            pos = $(href).position().top - 30;
         });
-        return bt.click(function () {
-          $('body,html').animate({
-            scrollTop: $('body,html')[0].scrollHeight
-          }, 800);
-          return false;
-        });
-      }
-    };
-  })(this));
-</script>
+    </script>
+    <!-- Bottom Scripts -->
+    <script src="https://aliett.github.io/media/js/bootstrap.min.js"></script>
+    <script src="https://aliett.github.io/media/js/TweenMax.min.js"></script>
+    <script src="https://aliett.github.io/media/js/resizeable.js"></script>
+    <script src="https://aliett.github.io/media/js/xenon-toggles.js"></script>
+    <script src="https://aliett.github.io/media/js/xenon-custom.js"></script>
+    <script src="https://aliett.github.io/media/js/lozad.js"></script>
+    <script src="https://aliett.github.io/media/js/LetterAvatar.js"></script>
 </body>
+
+
 
 </html>
