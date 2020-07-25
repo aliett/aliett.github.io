@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-25T19:16:35.896Z</updated>
+    <updated>2020-07-25T19:20:52.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -114,7 +114,8 @@
 <p>2020年6月13日，SpaceX 公司成功发射了第9批 Starlink 卫星，目前天上已有538颗Starlink卫星，预计6月24日将发射第10批。现在，SpaceX 正式向人们发出邀请，来帮他们测试这个太空网络！</p>
 <p>只要在网页填写申请表，提供电子邮箱、邮政区号和国家，你就有机会免费试用 StarLink，帮马斯克测试这个服务。提交申请后，你会收到一封邮件，告诉你如果你所在的地区出现了测试机会，会立刻邮件通知你。</p>
 <p>地球上现在还有一半的人没有上网。有了 Starlink，无论是游轮、不发达国家、偏远的森林和沙漠，都可以有 100+ Mbps 的宽带，这对人类有非常重大的意义</p>
-<p>Starlink Map  https://satellitemap.space/indexA.html</p>
+<p><a href="https://satellitemap.space/indexA.html">Starlink Map</a><br>
+Starlink Map  https://satellitemap.space/indexA.html</p>
 ]]></content>
     </entry>
     <entry>
