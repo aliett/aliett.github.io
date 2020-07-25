@@ -2,9 +2,10 @@
 <html>
 
 <head>
-    <meta charset="utf-8" />
+    
+                <meta charset="utf-8" />
 <title>
-    Aliett
+    Friends | Aliett
 </title>
 <!--[if lt IE 9]><script src="//cdn.bootcss.com/html5shiv/r29/html5.js"></script><![endif]-->
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
@@ -28,6 +29,7 @@
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css">
             <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.js"></script>
             
+                    
 </head>
 
 <body>
@@ -140,33 +142,44 @@
 </script>
             <div class="main">
                 <div class="container">
-                    <div class="post-wrap archive">
-                        
+                    <article class="post-wrap">
+                        <header class="post-header">
+                            <h1 class="post-title zh">
+                                &#x53CB;&#x94FE;
+                            </h1>
+                            <h1 class="post-title en">
+                                Friends
+                            </h1>
+                        </header>
+                        <div class="post-content">
                             
-                                <h3>
-                                    2020
-                                </h3>
-                                
-                                    
-
-                                        <article class="archive-item">
-                                            <a class="archive-item-link" href="https://aliett.github.io/post/005-that-time-i-tried-to-buy-an-actual-barrel-of-crude-oil-2015-na-ci-wo-xiang-mai-yi-tong-zhen-zheng-de-yuan-you/">
-                                                005 That Time I Tried to Buy an Actual Barrel of Crude Oil 2015那次我想买一桶真正的原油
-                                            </a>
-                                            <span class="archive-item-date">2020-07-25 </span>
-                                        </article>
-                                        
-                                            
-                                                
-                    </div>
-                    <div class="pagination-container">
-                        
-                                                
-                                                        
-                                                                
-                    </div>
+                        </div>
+                    </article>
                 </div>
             </div>
+            
+                
+                    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container" style="width: 100%;max-width: 780px;margin: auto;"></div>
+
+<script>
+    var gitalk = new Gitalk({
+        clientID: ' 452f54f4f7876a099868',
+        clientSecret: '4c592e163560f7459c3539110896bbe4ba4c46f9',
+        repo: 'comment',
+        owner: 'aliett',
+        admin: ['aliett'],
+        id: (location.pathname).substring(0, 49), // Ensure uniqueness and length less than 50
+        distractionFreeMode: false // Facebook-like distraction free mode
+    })
+
+    gitalk.render('gitalk-container')
+</script>
+                        
+                                    
+                                        
     </div>
     
         <footer id="footer" class="footer">
@@ -224,7 +237,6 @@
                     console.log("\n %c \u26a1Theme:Chic Author's Blog:https://blog.itjoker.cn  Write By ITJoker  \n\n", "color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;border-radius:5px;");
                 </script>
                 
-        </div>
 </body>
 
 </html>
