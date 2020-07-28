@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-28T15:46:50.936Z</updated>
+    <updated>2020-07-28T16:46:54.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[dskjhs]]></title>
+        <id>https://aliett.github.io/post/dskjhs/</id>
+        <link href="https://aliett.github.io/post/dskjhs/">
+        </link>
+        <updated>2020-07-28T16:46:43.000Z</updated>
+        <content type="html"><![CDATA[<p>&gt; 欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+<p>## <strong>🏠 关于本站</strong></p>
+<p>## <strong>👨‍💻 博主是谁</strong></p>
+<p>## <strong>⛹ 兴趣爱好</strong></p>
+<p>## <strong>📬 联系我呀</strong></p>
+<p>## <strong>yokhj</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[008 The 40% Rule   40% 法则]]></title>
         <id>https://aliett.github.io/post/008-the-40-rule-40-fa-ze/</id>
