@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-26T11:03:27.110Z</updated>
+    <updated>2020-07-28T15:46:50.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[008 The 40% Rule   40% 法则]]></title>
+        <id>https://aliett.github.io/post/008-the-40-rule-40-fa-ze/</id>
+        <link href="https://aliett.github.io/post/008-the-40-rule-40-fa-ze/">
+        </link>
+        <updated>2020-07-28T15:23:18.000Z</updated>
+        <content type="html"><![CDATA[<p>今天早上我在 Brad Feld 的博客上看到他发布了关于 SAAS 公司“40% 规则”的文章。</p>
+<p>我和布拉德参加了同一个董事会会议，离开时对规则的简单性及其背后的逻辑同样印象深刻。</p>
+<p>以下是针对 SAAS 公司的40% 规则:</p>
+<p>你的年收入增长率 + 营业利润率应该等于40%</p>
+<p>所以，如果你每年增长100% ，你可能会损失60% 的收入</p>
+<p>如果你每年增长40% ，那么你应该收支平衡</p>
+<p>如果你每年增长20% ，你应该有20% 的营业利润率</p>
+<p>如果你没有增长，你应该有40% 的营业利润</p>
+<p>如果你的业务每年下降10% ，你应该有50% 的营业利润率</p>
+<p>我从未见过将增长和盈利能力可以如此完美地结合在这样一个简单的规则中。我总是凭直觉认为，如果你在快速增长，亏损是可以的，而当你的增长放缓时，你必须赚钱并增加你的盈利。现在有一个公式来解释这种本能现象，我非常喜欢这样。</p>
+<p>谢谢布拉德贴出来。</p>
+<p>The 40% Rule<br>
+I was catching up on Brad Feld’s blog this morning and saw that he had posted about the “40% rule” for SAAS companies.</p>
+<p>I was at the same board meeting as Brad and came away similarly impressed by the simplicity of the rule and the logic behind it.</p>
+<p>Here’s the 40% rule and it is aimed at SAAS companies:</p>
+<p>Your annual revenue growth rate + your operating margin should equal 40%</p>
+<p>So, if you are growing 100% year over year, you can lose money at a rate of 60% of your revenues</p>
+<p>If you are growing 40% year over year, you should be breaking even</p>
+<p>If you are growing 20% year over year, you should have 20% operating margins</p>
+<p>If you are not growing, you should have 40% operating margins</p>
+<p>If your business is declining 10% year over year, you should have 50% operating margins</p>
+<p>I have never seen growth and profitability so nicely tied together in a simple rule like this. I’ve always felt intuitively that it’s OK to lose money if you are growing fast, and you must make money and increasing amounts of it as your growth slows. Now there’s a formula for that instinct. And I like that very much.</p>
+<p>Thanks Brad for posting it.</p>
+<p>来源<br>
+The 40% Rule   https://avc.com/2015/02/the-40-rule/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[007 China's getting Ready For A Long Bull Market中国为长期牛市做好准备]]></title>
         <id>https://aliett.github.io/post/007chinas-getting-ready-for-a-long-bull-market-zhong-guo-wei-chang-qi-niu-shi-zuo-hao-zhun-bei/</id>
