@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-28T17:51:07.661Z</updated>
+    <updated>2020-07-28T18:23:31.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,25 +10,6 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
-    <entry>
-        <title type="html"><![CDATA[dskjhs]]></title>
-        <id>https://aliett.github.io/post/dskjhs/</id>
-        <link href="https://aliett.github.io/post/dskjhs/">
-        </link>
-        <updated>2020-07-28T16:46:43.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="4这个就是">4这个就是</h2>
-<p>Profit is harder to define. Are we talking about EBITDA, Operating Income, Net Income, Free Cash Flow, Cash Flow or something else. I prefer to use EBITDA here as the baseline and then back test with the other percentages. If you are running on AWS or the cloud, this should be pretty simple and consistent. However, if you are running your own infrastructure, your EBITDA, Operating Income and Free Cash Flow will diverge from your Net Income and Cash Flow because of equipment purchases, debt to finance them, or lease expense. So you have to be precise here with which number you are using and “it’ll depend” based on how your SaaS infrastructure works.</p>
-<h2 id="3对不是">3对不是</h2>
-<p>Profit is harder to define. Are we talking about EBITDA, Operating Income, Net Income, Free Cash Flow, Cash Flow or something else.frastructure works.</p>
-<h2 id="2第一">2第一</h2>
-<p>Profit is harder to define. Are we talking about EBITDA, Operating Income, Net Income, Free Cash Flow, Cash Flow or something else. I prefer to use EBITDA here as the baseline and then back test with the other percentages. If you are running on AWS or the cloud, this shmber you are using and “it’ll depend” based on how your SaaS infrastructure works.</p>
-<h4 id="5好哦iwe">5好哦iwe</h4>
-<h6 id="6wuqoiue">6wuqoiue</h6>
-<p>7owuuvf</p>
-<p>##1</p>
-<p>###2</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[008 The 40% Rule   40% 法则]]></title>
         <id>https://aliett.github.io/post/008-the-40-rule-40-fa-ze/</id>
@@ -59,7 +40,7 @@
 <p>If your business is declining 10% year over year, you should have 50% operating margins</p>
 <p>I have never seen growth and profitability so nicely tied together in a simple rule like this. I’ve always felt intuitively that it’s OK to lose money if you are growing fast, and you must make money and increasing amounts of it as your growth slows. Now there’s a formula for that instinct. And I like that very much.</p>
 <p>Thanks Brad for posting it.</p>
-<p>来源   The 40% Rule    <a href="https://avc.com/2015/02/the-40-rule/">https://avc.com/2015/02/the-40-rule/</a></p>
+<p>来源   The 40% Rule    https://avc.com/2015/02/the-40-rule/</p>
 ]]></content>
     </entry>
     <entry>
