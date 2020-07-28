@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-28T17:41:18.932Z</updated>
+    <updated>2020-07-28T17:46:40.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -35,7 +35,8 @@
         <link href="https://aliett.github.io/post/008-the-40-rule-40-fa-ze/">
         </link>
         <updated>2020-07-28T15:23:18.000Z</updated>
-        <content type="html"><![CDATA[<p>今天早上我在 Brad Feld 的博客上看到他发布了关于 SAAS 公司“40% 规则”的文章。</p>
+        <content type="html"><![CDATA[<h2 id="">.</h2>
+<p>今天早上我在 Brad Feld 的博客上看到他发布了关于 SAAS 公司“40% 规则”的文章。</p>
 <p>我和布拉德参加了同一个董事会会议，离开时对规则的简单性及其背后的逻辑同样印象深刻。</p>
 <p>以下是针对 SAAS 公司的40% 规则:</p>
 <p>你的年收入增长率 + 营业利润率应该等于40%</p>
@@ -58,7 +59,8 @@
 <p>If your business is declining 10% year over year, you should have 50% operating margins</p>
 <p>I have never seen growth and profitability so nicely tied together in a simple rule like this. I’ve always felt intuitively that it’s OK to lose money if you are growing fast, and you must make money and increasing amounts of it as your growth slows. Now there’s a formula for that instinct. And I like that very much.</p>
 <p>Thanks Brad for posting it.</p>
-<p>来源   The 40% Rule   https://avc.com/2015/02/the-40-rule/</p>
+<p>来源 The 40% Rule</p>
+<p>[]: https://avc.com/2015/02/the-40-rule/</p>
 ]]></content>
     </entry>
     <entry>
