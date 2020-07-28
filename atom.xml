@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-07-28T17:31:33.254Z</updated>
+    <updated>2020-07-28T17:41:18.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -46,8 +46,8 @@
 <p>如果你的业务每年下降10% ，你应该有50% 的营业利润率</p>
 <p>我从未见过将增长和盈利能力可以如此完美地结合在这样一个简单的规则中。我总是凭直觉认为，如果你在快速增长，亏损是可以的，而当你的增长放缓时，你必须赚钱并增加你的盈利。现在有一个公式来解释这种本能现象，我非常喜欢这样。</p>
 <p>谢谢布拉德贴出来。</p>
-<p>The 40% Rule<br>
-I was catching up on Brad Feld’s blog this morning and saw that he had posted about the “40% rule” for SAAS companies.</p>
+<h2 id="the-40-rule">The 40% Rule</h2>
+<p>I was catching up on Brad Feld’s blog this morning and saw that he had posted about the “40% rule” for SAAS companies.</p>
 <p>I was at the same board meeting as Brad and came away similarly impressed by the simplicity of the rule and the logic behind it.</p>
 <p>Here’s the 40% rule and it is aimed at SAAS companies:</p>
 <p>Your annual revenue growth rate + your operating margin should equal 40%</p>
@@ -58,8 +58,7 @@ I was catching up on Brad Feld’s blog this morning and saw that he had posted 
 <p>If your business is declining 10% year over year, you should have 50% operating margins</p>
 <p>I have never seen growth and profitability so nicely tied together in a simple rule like this. I’ve always felt intuitively that it’s OK to lose money if you are growing fast, and you must make money and increasing amounts of it as your growth slows. Now there’s a formula for that instinct. And I like that very much.</p>
 <p>Thanks Brad for posting it.</p>
-<p>来源<br>
-The 40% Rule   https://avc.com/2015/02/the-40-rule/</p>
+<p>来源   The 40% Rule   https://avc.com/2015/02/the-40-rule/</p>
 ]]></content>
     </entry>
     <entry>
