@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-09-20T14:51:23.687Z</updated>
+    <updated>2020-10-27T03:11:13.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[017七日年化收益率 On the 7th of the year yield]]></title>
+        <id>https://aliett.github.io/post/017-qi-ri-nian-hua-shou-yi-lu-on-the-7th-of-the-year-yield/</id>
+        <link href="https://aliett.github.io/post/017-qi-ri-nian-hua-shou-yi-lu-on-the-7th-of-the-year-yield/">
+        </link>
+        <updated>2020-10-27T03:07:56.000Z</updated>
+        <content type="html"><![CDATA[<p>七日年化收益率是货币基金过去七天每万份基金份额净收益折合成的年收益率。</p>
+<p>首先我们必须从一道数学题展开：</p>
+<p>设七日年化收益率为5%，现有10000元投入到宝类理财产品中，那么每天能拿到多少收益呢？每年拿到的收益是多少？每万份收益又和七日年化收益率有什么关系呢？</p>
+<p>一般刚接触这个名词的人都会被“七日”两字弄糊涂，糊里糊涂就拿结果除以7，这些都是被“七日”迷惑的结果。</p>
+<p>其实我们在计算预期收益的时候，完全可以忽视“七日”两字。</p>
+<p>虽说是“七日年化收益率”，其实指的还是一年的收益率。（只是取最近七日数据“年化”的结果）。</p>
+<p>下图可以直观理解！<br>
+<img src="https://aliett.github.io/post-images/1603768158112.jpg" alt="" loading="lazy"></p>
+<p>理解了这一概念之后，再回去看步骤2的那道题似乎一切都明了了！</p>
+<p>10000元按照5%的年收益率算的话，一年之后可以得到10000*5%=500元！</p>
+<p>而每日收益为500/365=1.37元！</p>
+<p>而每万份收益指的就是每万元每天的收益，即1.37元。</p>
+<p>最后我们用一张图来直观的说明几者之间的关系。<br>
+<img src="https://aliett.github.io/post-images/1603768187217.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ 016 A Brief History of Alibaba Founders 阿里巴巴创始人简史]]></title>
         <id>https://aliett.github.io/post/016-a-brief-history-of-alibaba-founders-a-li-ba-ba-chuang-shi-ren-jian-shi/</id>
