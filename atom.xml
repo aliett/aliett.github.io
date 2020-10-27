@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-10-27T03:11:13.821Z</updated>
+    <updated>2020-10-27T03:15:49.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
     <entry>
-        <title type="html"><![CDATA[017七日年化收益率 On the 7th of the year yield]]></title>
+        <title type="html"><![CDATA[017 On the 7th of the year yield 七日年化收益率 ]]></title>
         <id>https://aliett.github.io/post/017-qi-ri-nian-hua-shou-yi-lu-on-the-7th-of-the-year-yield/</id>
         <link href="https://aliett.github.io/post/017-qi-ri-nian-hua-shou-yi-lu-on-the-7th-of-the-year-yield/">
         </link>
