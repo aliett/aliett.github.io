@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-11-08T08:12:39.415Z</updated>
+    <updated>2020-11-09T10:45:20.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,45 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[019 Startup idea checklist 创业想法的检查清单]]></title>
+        <id>https://aliett.github.io/post/019-startup-idea-checklist-chuang-ye-xiang-fa-de-jian-cha-qing-dan/</id>
+        <link href="https://aliett.github.io/post/019-startup-idea-checklist-chuang-ye-xiang-fa-de-jian-cha-qing-dan/">
+        </link>
+        <updated>2020-11-09T08:55:09.000Z</updated>
+        <content type="html"><![CDATA[<p>创业想法检查清单（Startup idea checklist），涉及5个方面：产品、增长、战略、意义、奖励。</p>
+<p><strong>1、Product 产品</strong><br>
+1 用户是谁？<br>
+2 用户对（现有）产品不满的本质是什么？<br>
+3 你为他们构建的是什么？<br>
+4 假设你是客户，写一个推文，解释一下产品以及如何消除了不满。<br>
+5 为自己的产品写一篇博文，看看目标用户有啥反应。<br>
+6 写一个产品公告博文，产品名称、说明、目标市场等。<br>
+7 客户关系的好产品指标是什么，你是否不可替代？</p>
+<p><strong>2、Growth 增长</strong><br>
+8 计算一下市场规模。<br>
+9 有哪些用户不满现状，他们能接受缺陷产品吗？<br>
+10 列出前10个客户。<br>
+11 之后获取用户的套路是什么？<br>
+12 在18个月内获得资本会有哪些条件，你如何实现？</p>
+<p><strong>3、Strategy 战略</strong><br>
+13 为什么解决问题的人，是你、是现在，别人都是吃干饭的吗？<br>
+14 在25年的时间范围内，最牛的里程碑会是什么？<br>
+15 你的产品有助于实现该里程碑吗？<br>
+16 这个里程碑的下一个厉害的事儿是什么？<br>
+17 如何构建护城河？</p>
+<p><strong>4、Meaning 意义</strong><br>
+18 你的里程碑对世界有何意义？blablabla。。。（创业不是为了赚钱改善生活的吗？）<br>
+19 如果另一个公司干得事儿和你一样，你会。。。（另二个，另三个。。。）<br>
+20 能否承受失败？</p>
+<p><strong>5、Bonus 奖励</strong><br>
+21 你的公司股票代码想好了吗？（先掐一下脸）<br>
+22 你的公司牛吗？（低调一点吧）</p>
+<p>Slava Akhmechet毕业于纽约的石溪大学（Stony Brook University），现在是支付技术公司Stripe的一名产品经理，同时也是一名软件开发人员。在进入Stripe之前，他是智能数据库公司RethinkDB的创始人之一。</p>
+<p>Slava Akhmechet的博客文章：<br>
+<a href="http://www.defmacro.org/2019/03/26/startup-checklist.html">Startup idea checklist</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Music  音乐]]></title>
         <id>https://aliett.github.io/post/music-yin-le/</id>
