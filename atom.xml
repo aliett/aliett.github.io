@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2020-11-09T18:43:30.186Z</updated>
+    <updated>2020-11-10T11:54:04.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[023 How to Read Palms 如何阅读手相]]></title>
+        <id>https://aliett.github.io/post/023-how-to-read-palms-ru-he-yue-du-shou-xiang/</id>
+        <link href="https://aliett.github.io/post/023-how-to-read-palms-ru-he-yue-du-shou-xiang/">
+        </link>
+        <updated>2020-11-10T11:37:32.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://aliett.github.io/post-images/1605008377489.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008384569.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008394203.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008400134.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008406042.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008412032.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008417551.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008425255.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008444792.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008451649.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008464009.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008469598.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008474564.gif" alt="" loading="lazy"><br>
+<img src="https://aliett.github.io/post-images/1605008479271.gif" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[022 The winner and price of Buffett’s lunch auction over the years历年巴菲特午餐拍卖的中标者及价格]]></title>
         <id>https://aliett.github.io/post/022-the-winner-and-price-of-buffetts-lunch-auction-over-the-years-li-nian-ba-fei-te-wu-can-pai-mai-de-zhong-biao-zhe-ji-jie-ge/</id>
