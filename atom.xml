@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2021-02-18T09:05:02.907Z</updated>
+    <updated>2021-02-18T09:16:30.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -59,7 +59,9 @@
 </tr>
 </tbody>
 </table>
-<h1 id="当前值比率-1952严重高估">当前值（比率 = 195.2%）	<strong>严重高估</strong></h1>
+<p>当前值（比率 = 195.2%）	<strong>严重高估</strong></p>
+<hr>
+<p>中国大陆市场</p>
 <p><img src="https://aliett.github.io/post-images/1613638800052.png" alt="" loading="lazy"><br>
 中国大陆市场总市值（TMC）／国内生产总值（GDP）的百分比：<br>
 近十年最大值：93.10％<br>
@@ -95,17 +97,17 @@
 </tr>
 </tbody>
 </table>
-<p><strong>当前值（比率 = 69.5%）	高估</strong></p>
+<p>当前值（比率 = 69.5%）	<strong>高估</strong></p>
 <p>PS：<br>
 利率、企业盈利能力的长期增长、市场估值被巴菲特认为是决定股市长期的报酬率的三大因素，而其中有关市场估值这部分则可以应用“巴菲特指标”作出衡量。</p>
 <p><strong>利率</strong><br>
 利率“对金融市场估值的作用与重力对物质的作用相似：利率越高，向下的拉力越大。这是因为投资者从任何类型的投资中获取的要求回报率都直接与他们从政府证券中可以获得的无风险利率挂钩。因此，如果政府利率上升，所有其他投资的价格必须向下调整到与预期收益率一致的水平。相反，如果政府利率下降，将推高所有其他投资的价格</p>
 <p><strong>企业盈利能力的长期增长</strong><br>
-从长期来看，企业盈利能力会回归其长期趋势值，即大约6％。在经济衰退时期，公司的利润率会下降，在经济增长时期，公司的利润率会扩大。一般来说，总市场的经济也遵循同样的规律。美国经济规模是由国民生产总值（GNP）衡量的。尽管国民生产总值（GNP）不同于国内生产总值（GDP），但这两个数字的差额始终保持在1％以内。为了方便计算，此处使用GDP。图中的绿线代表了1970年以来的美国国内生产总值（GDP），蓝线代表了威尔逊5000市场指数。该指数已涵盖超过7500支股票，由于涵盖面广，许多美国投资者称该指数为“市场总指数”。<br>
-国内生产总值（GDP）vs 威尔逊5000市场指数 vs 美联储总资产（万亿美金）<br>
-<img src="https://aliett.github.io/post-images/1613636450234.png" alt="" loading="lazy"></p>
-<p>========================<br>
-原文<br>
+从长期来看，企业盈利能力会回归其长期趋势值，即大约6％。在经济衰退时期，公司的利润率会下降，在经济增长时期，公司的利润率会扩大。一般来说，总市场的经济也遵循同样的规律。美国经济规模是由国民生产总值（GNP）衡量的。尽管国民生产总值（GNP）不同于国内生产总值（GDP），但这两个数字的差额始终保持在1％以内。为了方便计算，此处使用GDP。图中的绿线代表了1970年以来的美国国内生产总值（GDP），蓝线代表了威尔逊5000市场指数。该指数已涵盖超过7500支股票，由于涵盖面广，许多美国投资者称该指数为“市场总指数”。</p>
+<figure data-type="image" tabindex="3"><img src="https://aliett.github.io/post-images/1613636450234.png" alt="" loading="lazy"></figure>
+<p>来源  gurufocus.com</p>
+<hr>
+<p>原文<br>
 Here’s a crucial question for investors that the Wall Street crowd seldom addresses: Can corporate profits keep booming by growing faster than the economy? Is this the new normal, or will the GDP-gobbling trend reverse, as it always has in the past, turning today’s record-shattering rally into a rout?</p>
 <p>Shareholders beware. It’s the unhinging of profits from the overall economy that has been propelling stock prices, and that dynamic is now in danger. Either the normal ebb and flow of markets will pull equity values back to their traditional share of GDP, or Congress is likely to do the job by attacking Big Tech and mandating that workers get a lot more of the bounty now flowing to shareholders. Either way, America’s companies and its economy are one in the same. Over the long-term, they need to move in tandem. And if they stray too far apart, getting back to balance can pummel share prices.</p>
 <p>The S&amp;P 500’s fantastic performance since late 2016 is all about earnings. Since the fourth quarter of that year, profits, based on the trailing twelves months of GAAP earnings, have jumped 41% to a blowout record of $134.39 per share. In that period, share prices have followed earnings like a postage stamp on a letter, rising precisely the same number to just over 3000. That’s because investors are awarding shares a consistent P/E multiple in the 22 to 24 range.</p>
