@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2021-02-15T13:05:26.636Z</updated>
+    <updated>2021-02-18T09:05:02.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -10,6 +10,143 @@
     <logo>https://aliett.github.io/images/avatar.png</logo>
     <icon>https://aliett.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Aliett</rights>
+    <entry>
+        <title type="html"><![CDATA[026 Buffett Indicator 巴菲特指标]]></title>
+        <id>https://aliett.github.io/post/026-buffett-indicator-ba-fei-te-zhi-biao/</id>
+        <link href="https://aliett.github.io/post/026-buffett-indicator-ba-fei-te-zhi-biao/">
+        </link>
+        <updated>2021-02-18T07:32:25.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>巴菲特指标是判断市场整体是否被高估或低估的指标。</strong></p>
+<p>2001年，沃伦-巴菲特（Warren Buffett）在接受《财富》（Fortune）杂志采访时曾表示，市值占GDP的比例这一长期估值指标“可能是衡量某一特定时刻估值水平的最佳单一指标。”</p>
+<p><strong>巴菲特指标计算公式：</strong><br>
+其计算方式基于股市的市值(TMC)与(GNP)之比。GNP是Gross National Product的简称，即国民生产总值，是指一个国家或地区范围内的所有常住单位在一定时期内所生产的最终产品的价值的总和。</p>
+<p>鉴于国民生产总值（GNP）与国内生产总值（GDP）这两个数字之比一直在1%以内，为方便计算，亦可采用GDP替代。因此，巴菲特指标可以简单理解为：<strong>TMC/GDP</strong></p>
+<p>巴菲特认为若TMC/GDP之间的比率处于70%至80%的区间之内，这时买进股票在较长周期内会有不错的收益，但若在这个比例偏高时买进股票，将存在较大风险。</p>
+<p>从长期来看，股市估值会回归其均值附近。若当前估值比率水平较高，则未来很可能长期回报较低；与之相反，若当前估值比率较低，则未来长期回报较高。</p>
+<p>注：国内生产总值（GDP）是“在一国境内生产的商品和服务的总市场价值”。国民生产总值（GNP）是“ 一个国家的居民生产的商品和服务的总市值，即使他们生活在国外。因此，如果美国居民从海外投资中赚钱，那么该价值将包含在国民生产总值（GNP）中，而不包含在国内生产总值（GDP）中”。尽管两者之间的区别很重要，因为美国公司正在增加其在国际上的业务量，但GNP与GDP之间的实际差异很小，如国内生产总值（GDP）vs 国民生产总值（GNP）图所示。(美股)</p>
+<figure data-type="image" tabindex="1"><img src="https://aliett.github.io/post-images/1613634813486.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://aliett.github.io/post-images/1613634825029.png" alt="" loading="lazy"></figure>
+<p>在过去的50年中，总市值占GDP百分比的变化幅度很大。最低点是在 1982年7月 ，约为32.7％，而最高点是在 2021年2月 ，为195.2％。(美股)</p>
+<p>市场由 1982年7月 的严重低估变化到 2021年2月 的严重高估。</p>
+<p>基于总市值TMC占GDP百分比的历史估值，我们将市场分为五个等级：</p>
+<table>
+<thead>
+<tr>
+<th><strong>比率=总市值（TMC）/国内生产总值（GDP）</strong></th>
+<th><strong>估值</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>比率 &lt;= 73％</td>
+<td>严重低估</td>
+</tr>
+<tr>
+<td>73％ &lt; 比率 &lt;= 94％</td>
+<td>低估</td>
+</tr>
+<tr>
+<td>94％ &lt; 比率 &lt;= 115％</td>
+<td>在合理范围内</td>
+</tr>
+<tr>
+<td>115％ &lt; 比率 &lt;= 136％</td>
+<td>高估</td>
+</tr>
+<tr>
+<td>136％ &lt; 比率</td>
+<td>严重高估</td>
+</tr>
+</tbody>
+</table>
+<h1 id="当前值比率-1952严重高估">当前值（比率 = 195.2%）	<strong>严重高估</strong></h1>
+<p><img src="https://aliett.github.io/post-images/1613638800052.png" alt="" loading="lazy"><br>
+中国大陆市场总市值（TMC）／国内生产总值（GDP）的百分比：<br>
+近十年最大值：93.10％<br>
+近十年最小值：38.54％</p>
+<p>根据这些历史估值，我们将<strong>中国大陆</strong>市场估值分为五个区域：</p>
+<table>
+<thead>
+<tr>
+<th><strong>比率=总市值/国内生产总值（GDP）</strong></th>
+<th><strong>估值</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>比率 &lt;= 41％</td>
+<td>严重低估</td>
+</tr>
+<tr>
+<td>41％ &lt; 比率 &lt;= 53％</td>
+<td>低估</td>
+</tr>
+<tr>
+<td>53％ &lt; 比率 &lt;= 65％</td>
+<td>在合理范围内</td>
+</tr>
+<tr>
+<td>65％ &lt; 比率 &lt;= 77％</td>
+<td>高估</td>
+</tr>
+<tr>
+<td>77％ &lt; 比率</td>
+<td>严重高估</td>
+</tr>
+</tbody>
+</table>
+<p><strong>当前值（比率 = 69.5%）	高估</strong></p>
+<p>PS：<br>
+利率、企业盈利能力的长期增长、市场估值被巴菲特认为是决定股市长期的报酬率的三大因素，而其中有关市场估值这部分则可以应用“巴菲特指标”作出衡量。</p>
+<p><strong>利率</strong><br>
+利率“对金融市场估值的作用与重力对物质的作用相似：利率越高，向下的拉力越大。这是因为投资者从任何类型的投资中获取的要求回报率都直接与他们从政府证券中可以获得的无风险利率挂钩。因此，如果政府利率上升，所有其他投资的价格必须向下调整到与预期收益率一致的水平。相反，如果政府利率下降，将推高所有其他投资的价格</p>
+<p><strong>企业盈利能力的长期增长</strong><br>
+从长期来看，企业盈利能力会回归其长期趋势值，即大约6％。在经济衰退时期，公司的利润率会下降，在经济增长时期，公司的利润率会扩大。一般来说，总市场的经济也遵循同样的规律。美国经济规模是由国民生产总值（GNP）衡量的。尽管国民生产总值（GNP）不同于国内生产总值（GDP），但这两个数字的差额始终保持在1％以内。为了方便计算，此处使用GDP。图中的绿线代表了1970年以来的美国国内生产总值（GDP），蓝线代表了威尔逊5000市场指数。该指数已涵盖超过7500支股票，由于涵盖面广，许多美国投资者称该指数为“市场总指数”。<br>
+国内生产总值（GDP）vs 威尔逊5000市场指数 vs 美联储总资产（万亿美金）<br>
+<img src="https://aliett.github.io/post-images/1613636450234.png" alt="" loading="lazy"></p>
+<p>========================<br>
+原文<br>
+Here’s a crucial question for investors that the Wall Street crowd seldom addresses: Can corporate profits keep booming by growing faster than the economy? Is this the new normal, or will the GDP-gobbling trend reverse, as it always has in the past, turning today’s record-shattering rally into a rout?</p>
+<p>Shareholders beware. It’s the unhinging of profits from the overall economy that has been propelling stock prices, and that dynamic is now in danger. Either the normal ebb and flow of markets will pull equity values back to their traditional share of GDP, or Congress is likely to do the job by attacking Big Tech and mandating that workers get a lot more of the bounty now flowing to shareholders. Either way, America’s companies and its economy are one in the same. Over the long-term, they need to move in tandem. And if they stray too far apart, getting back to balance can pummel share prices.</p>
+<p>The S&amp;P 500’s fantastic performance since late 2016 is all about earnings. Since the fourth quarter of that year, profits, based on the trailing twelves months of GAAP earnings, have jumped 41% to a blowout record of $134.39 per share. In that period, share prices have followed earnings like a postage stamp on a letter, rising precisely the same number to just over 3000. That’s because investors are awarding shares a consistent P/E multiple in the 22 to 24 range.</p>
+<p>But it’s critical to assess whether or not a profit bubble has driven shares to unsustainably high prices.</p>
+<p>To gauge if that’s happened, let’s examine one of the best measures of where stocks stand on the continuum from excessively cheap to dangerously expensive. It’s the ratio of Total Market Cap (TMC), the value of all U.S. publicly traded companies, versus GDP, the value of all goods and services produced annually within our borders. Put simply, it shows the dollar size of the equity market as a share of the economy.</p>
+<p>If the value of equities represents a far bigger than average share of national income, it probably means that epic earnings are devouring a much bigger share of national income than usual, leaving less for wages. That’s certainly the case today. In the past, the gravitational force of competition for both goods and labor has always restored balance by curbing excessive profits, and in most cases, driving down stock prices.</p>
+<p>The TMC to GDP ratio is a favorite yardstick of Warren Buffett, who’s stated, that “it’s probably the best measure of where valuations stand at any given moment.” (We’ll refer to the measure as the “cap ratio.”)</p>
+<p>Today, the value of all stocks to national income stands at 146.4. That’s the second highest reading in the past half-century, exceeded only by the 148.5 posted at the peak of the dot.com bubble on March 30, 2000. The cap ratio has averaged around 80 over the past decade, so it now exceeds that benchmark by 80%.</p>
+<p>The cap ratio has varied widely over the past five decades, but typically returns to that reading of 80 after spiking well above, and plunging far below, that mean. By definition, over each period the ratio starts and ends at 80, earnings simply grow with GDP. (We’ll express GDP in “nominal,” not inflation-adjusted terms.) Still, it’s informative to study the careening course in between.</p>
+<p>We’ll start at the 80 mark reached at the start of 1971. The cap ratio fell as low as 35 in the deep 1982 recession, and generally stayed below 50 from 1976 to 1986. It didn’t get back to 80 until the end of 1995, an interlude of 25 years. Over that period, the S&amp;P 500 rose on average 7.3% a year, reflecting economic growth inflated by high inflation from the oil shock of the 1970s and early 1980s.</p>
+<p>From that 80 reading at the end of 1995, through March 30 of 2000, the cap ratio went wild, jumping 86% to that record level of almost 150 at the height of the internet craze. Then, gravity took over, and by April of 2003, the “cap” had crashed back to 80. Over that 7-plus year period, the S&amp;P 500 rose by a more or less normal 5.6%, half as fast as in the past half-decade, once again, tracking GDP.</p>
+<p>From the 80 reading in early 2003, the ratio plunged to the low 50s during the 2009 financial crisis, and didn’t hit 80 again until October of 2011. Over those seven-and-a-half years, the S&amp;P gained just 3.1% annually, as cratering home prices hobbled the economy.</p>
+<p>Since returning to a “normal” level in late 2011, the cap ratio soared hockey-stick style, hitting the current 146.2 while suffering only minor blips along the way. Over those 7 years and 9 months, GDP rose 35%, from $15.6 trillion to $21.1 trillion. Total market cap leaped from $12.6 trillion to $3.014 trillion, or 148%. The S&amp;P 500 delivered annual gains of 11%, while national income rose less than half as fast, by 4%.</p>
+<p>Put simply, companies cut back on workers, held down wages, feasted from low interest rates on their debt, and otherwise benefited from a perfect calm for profits. And those trends totally trumped mediocre economic growth.</p>
+<p>Two additional measures are flashing red. I often interviewed Milton Friedman, the legendary economist, before his death in 2006. Friedman told me that “in the long term, earnings cannot remain above their historical average as a share of national income.” The Nobel laureate also declared that although profit performance determines companies' values over lengthy periods, “markets in the short term are far from ‘efficient,’” meaning that equity prices can vary significantly from the enterprises' underlying value.</p>
+<p>Today, according to the St. Louis Federal Reserve, corporate profits account for 9.2% of GDP. That’s one-third higher than the half-century average of 7%. Since profits normally “revert to the mean” a la Friedman, that gap is destined to shrink. Operating margins also look unsustainably high. According to S&amp;P, the figure for the S&amp;P 500 averaged 11.25% over the past four quarters, 25% above the average of 9% posted in the previous 30 quarters.</p>
+<p>It’s conceivable that our economy really has changed, as the break-up-tech crowd in Congress argues, and that internet is enabling tech giants to operate as monopolies. That’'s the position adopted by a number of influential economists, including former Treasury Secretary Larry Summers. Another possibility: Because they’re so profitable, these players are prime targets by hungry startups that will eventually erode their profitability.</p>
+<p>The best bet is that equity valuations return to a more normal share of national income. The past few years look like the kind of crazy uncoupling that happens every couple of decades, not a structural downshift from the world's most competitive market to a network of cartels.</p>
+<p>The market hasn’t failed to rein in runaway profits yet, and it won’t fail this time.<br>
+华尔街的投资者很少提及十分关键的问题：如果企业利润比经济增长快，利润增长能否持续？这是一种新常态，还是会像过去一样，这种吞没GDP的趋势会逆转，今天破纪录的涨势会再度变成一场溃败？</p>
+<p>股东们要小心了。推动股价上涨的动力源自于利润从整体经济中分离出来，而这种动力目前正在面临风险。要么市场的正常涨跌会把股票价值拉回其正常情况下在GDP中所占的份额，要么美国国会可能会采取行动，攻击大型科技公司，要求把现在流向股东的奖金更多地分给工人。无论如何，美国的公司和经济是一体的。从长期来看，他们需要保持步调一致。如果二者偏离太远，要想重新恢复平衡可能会导致股价重创。</p>
+<p>标普500指数自从2016年末以来的出色表现，全都因为盈余。当年第四季度以来，以之后12个月的一般公认会计原则盈余为基础的盈利增长了41%，达到每股盈余134.39美元的井喷式历史纪录。在此期间，就像贴在信件上的邮票一样，股价紧随盈余的增长而上涨，涨幅完全相同，上升到3000出头。这是因为投资者一直让股票的市盈率保持在22至24倍之间。</p>
+<p>但关键是要评估，盈利泡沫是否已经将股价推高至无法持续的高位。</p>
+<p>为了判断这种情况是否真的已经发生，我们要看看股票价格正处于哪个区位，是过分便宜还是贵得危险。其中最好的衡量方式之一是总市值（TMC）和国内生产总值（GDP）之比，总市值是指即美国所有上市公司的价值，国内生产总值为美国国内每年生产的所有商品和服务的价值。简单地说，该指标显示了股票市场的价值在经济中所占的份额。</p>
+<p>如果股票价值在全国收入中所占的比例远高于平均水平，很可能意味着，过高的股票收益吞噬掉了过大比例的国民收入，留给工资的份额就更低。今天的情况确实如此。过去，商品竞争和劳动力竞争的引力作用总是能够通过抑制超额利润来恢复平衡，在大多数情况下，还会压低股价。</p>
+<p>股市总价值与GDP之比是沃伦·巴菲特最喜欢的指标，他说：“无论任何时候，这可能都是判断当前股市估值的最佳指标。”（下文我们把这个指标称为“证券化率”。）</p>
+<p>如今，所有股票的价值与国民收入之比为146.4。这是过去半个世纪以来的第二高，仅次于2000年3月30日互联网泡沫顶峰时期的148.5。过去十年里，该数字平均维持在80左右，所以现在已经超过了基准线约80%。</p>
+<p>过去50年的证券化率浮动很大，但通常会在大幅上涨或下跌后回到80的平均水平。从这个指标的定义来看，每一段从80开始到80结束的时期，收入都会随着GDP的增长而增长。（我们指的是名义GDP，而不是经过通胀调整后的数字。）尽管如此，研究中间倾斜的过程还是很有帮助的。</p>
+<p>我们从1971年年初达到80的时间点开始。在1982年的大衰退中，证券化率曾经降至35，在1976年至1986年期间，基本维持在50以下。这一数字直到1995年年底才重回80，总共花费了25年。在此期间，标普500指数平均每年上涨7.3%，反映出20世纪70年代和80年代初石油冲击引发的高通胀推高了经济增长。</p>
+<p>从1995年年底到2000年3月30日，证券化率从80大幅飙升，上涨86%，达到了互联网热鼎盛时期近150的历史最高纪录。然后，市场引力开始起作用，到2003年4月，证券化率跌回80。在这7年多的时间里，标普500指数以5.6%上下的正常速度上涨，速度是过去5年的一半，再一次和GDP保持一致。</p>
+<p>该比率从2003年年初的80，跌至2009年金融危机期间的50低点，直到2011年10月才再次达到80。在这七年半的时间里，由于房价暴跌拖累了经济，标普500指数每年仅上涨3.1%。</p>
+<p>自2011年年底回归“正常”水平以来，证券化比例一路狂飙，疯涨至目前的146.2，而在此过程中只出现了轻微波动。在这7年9个月的时间里，GDP增长了35%，从15.6万亿美元增长到21.1万亿美元。股市总价值涨幅主达148%。标普500指数的年增长率为11%，而国民收入的增长速度还不到它的一半，仅为4%。</p>
+<p>简而言之，企业削减了员工数量、压低了工资、享受着低息贷款带来的福利，除此之外，还从平静的市场中获益。这些趋势完全超过了平庸的经济增长。</p>
+<p>另外两项指标正在闪着红灯。传奇经济学家米尔顿·弗里德曼2006年去世之前，我经常采访他。弗里德曼告诉我，“从长期来看，盈余占国民收入的比例不可能长期高于历史平均水平。”这位诺贝尔奖得主还宣称，尽管盈利表现在长期内决定了企业的价值，但“短期市场远不能称为‘有效市场’”，这意味着股票价格可能与企业的潜在价值存在显著差异。</p>
+<p>如今，根据圣路易斯联邦储备银行（St. Louis Federal Reserve）的数据，企业盈利占GDP的9.2%。这比半个世纪以来7%的平均水平高出三分之一。由于利润通常会像弗里德曼所说的那样“回归均值”，这一差距注定会缩小。营业利润率看起来也高得无法持续。根据标普数据，过去四个季度标普500指数公司的平均涨幅为11.25%，比前30个季度9%的平均涨幅高出25%。</p>
+<p>可以想象，我们的经济确实已经发生了变化，正如美国国会中主张拆分科技股的人士所言，互联网使科技巨头实施垄断经营。包括前财政部部长拉里·萨默斯在内的许多有影响力的经济学家都认可这种立场。另一种可能性是：由于这些公司利润丰厚，着急的初创企业都以此类公司主要目标，大公司的盈利能力最终将被侵蚀。</p>
+<p>最好的办法是让股票估值占国民收入的份额回归正常。过去几年看起来像是每隔几十年就会发生的那种疯狂脱钩，而不是从全球竞争最激烈的市场向卡特尔网络转变的结构性下行。</p>
+<p>市场在控制失控的利润上还从未失手，这次也同样不会失败。</p>
+<p>来源：财富中文网   译者：Agatha</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[025 Written at 30,000 Dow 写在道指30000点之时]]></title>
         <id>https://aliett.github.io/post/025-written-at-30000-dow-xie-zai-dao-zhi-30000-dian-zhi-shi/</id>
