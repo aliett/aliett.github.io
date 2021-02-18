@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2021-02-18T09:16:30.353Z</updated>
+    <updated>2021-02-18T09:21:55.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -23,10 +23,10 @@
 <p>鉴于国民生产总值（GNP）与国内生产总值（GDP）这两个数字之比一直在1%以内，为方便计算，亦可采用GDP替代。因此，巴菲特指标可以简单理解为：<strong>TMC/GDP</strong></p>
 <p>巴菲特认为若TMC/GDP之间的比率处于70%至80%的区间之内，这时买进股票在较长周期内会有不错的收益，但若在这个比例偏高时买进股票，将存在较大风险。</p>
 <p>从长期来看，股市估值会回归其均值附近。若当前估值比率水平较高，则未来很可能长期回报较低；与之相反，若当前估值比率较低，则未来长期回报较高。</p>
-<p>注：国内生产总值（GDP）是“在一国境内生产的商品和服务的总市场价值”。国民生产总值（GNP）是“ 一个国家的居民生产的商品和服务的总市值，即使他们生活在国外。因此，如果美国居民从海外投资中赚钱，那么该价值将包含在国民生产总值（GNP）中，而不包含在国内生产总值（GDP）中”。尽管两者之间的区别很重要，因为美国公司正在增加其在国际上的业务量，但GNP与GDP之间的实际差异很小，如国内生产总值（GDP）vs 国民生产总值（GNP）图所示。(美股)</p>
+<p>注：国内生产总值（GDP）是“在一国境内生产的商品和服务的总市场价值”。国民生产总值（GNP）是“ 一个国家的居民生产的商品和服务的总市值，即使他们生活在国外。因此，如果美国居民从海外投资中赚钱，那么该价值将包含在国民生产总值（GNP）中，而不包含在国内生产总值（GDP）中”。尽管两者之间的区别很重要，因为美国公司正在增加其在国际上的业务量，但GNP与GDP之间的实际差异很小，如国内生产总值（GDP）vs 国民生产总值（GNP）图所示。(US)</p>
 <figure data-type="image" tabindex="1"><img src="https://aliett.github.io/post-images/1613634813486.png" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="2"><img src="https://aliett.github.io/post-images/1613634825029.png" alt="" loading="lazy"></figure>
-<p>在过去的50年中，总市值占GDP百分比的变化幅度很大。最低点是在 1982年7月 ，约为32.7％，而最高点是在 2021年2月 ，为195.2％。(美股)</p>
+<p>在过去的50年中，总市值占GDP百分比的变化幅度很大。最低点是在 1982年7月 ，约为32.7％，而最高点是在 2021年2月 ，为195.2％。(US)</p>
 <p>市场由 1982年7月 的严重低估变化到 2021年2月 的严重高估。</p>
 <p>基于总市值TMC占GDP百分比的历史估值，我们将市场分为五个等级：</p>
 <table>
