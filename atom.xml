@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aliett.github.io</id>
     <title>Aliett</title>
-    <updated>2021-02-23T16:29:30.274Z</updated>
+    <updated>2021-02-23T16:51:39.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aliett.github.io"/>
     <link rel="self" href="https://aliett.github.io/atom.xml"/>
@@ -38,85 +38,85 @@
 <tr>
 <th></th>
 <th><strong>Hedge fund manager</strong></th>
-<th><strong>Hedge fund</strong></th>
-<th><strong>Earnings</strong></th>
-<th><strong>Flagship fund return</strong></th>
+<th style="text-align:left"><strong>Hedge fund</strong></th>
+<th style="text-align:left"><strong>Earnings</strong></th>
+<th style="text-align:center"><strong>Flagship fund return</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Israel (Izzy) Englander</td>
-<td>Millennium Management</td>
-<td>$3.8bn</td>
-<td>+26%</td>
+<td style="text-align:left">Millennium Management</td>
+<td style="text-align:left">$3.8bn</td>
+<td style="text-align:center">+26%</td>
 </tr>
 <tr>
 <td>2</td>
 <td>James Simons</td>
-<td>Renaissance Technologies</td>
-<td>$2.6bn</td>
-<td>+76%</td>
+<td style="text-align:left">Renaissance Technologies</td>
+<td style="text-align:left">$2.6bn</td>
+<td style="text-align:center">+76%</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Chase Coleman</td>
-<td>Tiger Global Management</td>
-<td>$2.5bn</td>
-<td>+48%</td>
+<td style="text-align:left">Tiger Global Management</td>
+<td style="text-align:left">$2.5bn</td>
+<td style="text-align:center">+48%</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Kenneth Griffin</td>
-<td>Citadel</td>
-<td>$1.8bn</td>
-<td>+24%</td>
+<td style="text-align:left">Citadel</td>
+<td style="text-align:left">$1.8bn</td>
+<td style="text-align:center">+24%</td>
 </tr>
 <tr>
 <td>5</td>
 <td>David Tepper</td>
-<td>Appaloosa Management</td>
-<td>$1.7bn</td>
-<td>+13%</td>
+<td style="text-align:left">Appaloosa Management</td>
+<td style="text-align:left">$1.7bn</td>
+<td style="text-align:center">+13%</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Steve Cohen</td>
-<td>Point72 Asset Management</td>
-<td>$1.7bn</td>
-<td>+16%</td>
+<td style="text-align:left">Point72 Asset Management</td>
+<td style="text-align:left">$1.7bn</td>
+<td style="text-align:center">+16%</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Philippe Laffont</td>
-<td>Coatue Management</td>
-<td>$1.6bn</td>
-<td>+65%</td>
+<td style="text-align:left">Coatue Management</td>
+<td style="text-align:left">$1.6bn</td>
+<td style="text-align:center">+65%</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Scott Shleifer</td>
-<td>Tiger Global Management</td>
-<td>$1.5bn</td>
-<td>+65%</td>
+<td style="text-align:left">Tiger Global Management</td>
+<td style="text-align:left">$1.5bn</td>
+<td style="text-align:center">+65%</td>
 </tr>
 <tr>
 <td>9</td>
 <td>O. Andreas Halvorsen</td>
-<td>Viking Global Investors</td>
-<td>$1.5bn</td>
-<td>+27%</td>
+<td style="text-align:left">Viking Global Investors</td>
+<td style="text-align:left">$1.5bn</td>
+<td style="text-align:center">+27%</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Bill Ackman</td>
-<td>Pershing Square Capital Management</td>
-<td>$1.4bn</td>
-<td>+70%</td>
+<td style="text-align:left">Pershing Square Capital Management</td>
+<td style="text-align:left">$1.4bn</td>
+<td style="text-align:center">+70%</td>
 </tr>
 </tbody>
 </table>
-<p>来源 <a href="https://www.institutionalinvestor.com/article/b1qmsgpxhz0lpt/The-20th-Annual-Rich-List-the-Definitive-Ranking-of-What-Hedge-Fund-Managers-Earned-in-2020">The 20th Annual Rich List</a>![]</p>
+<p>来源 [The 20th Annual Rich List</p>
 ]]></content>
     </entry>
     <entry>
